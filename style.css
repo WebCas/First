@@ -1,0 +1,113 @@
+#graph
+{
+    width: 100px;
+    height: 30px;
+    border-color: black;
+    border-width: 2px;
+    background-color: white;
+    border-style: solid;
+
+}
+
+#myscreen
+{
+    width: 500px;
+    height: 300px;
+    border-color: black;
+    border-width: 2px;
+    background-color: #f0ffff;
+    border-style: solid;
+
+}
+.starter
+{
+    -webkit-transition: all 1.00s ease-out;
+    -moz-transition: all 1.00s ease-out;
+    -ms-transition: all 1.00s ease-out;
+    -o-transition: all 1.00s ease-out;
+    transition: all 1.00s ease-out;
+    -webkit-transform: rotateY(0deg) rotateZ(0deg) translateZ(0px) translateY(0px);
+    position: fixed;
+    /*left: 100px;*/
+    /*top: 100px;*/
+    text-emphasis-position: above;
+    vertical-align: middle;
+    text-align: center;
+
+
+    width: 460px;
+    height: 320px;
+    background-color: #add8e6;
+    z-index: 1;
+    opacity: 1;
+}
+
+
+
+#diamonds
+{
+    -webkit-transition: all 1.00s ease-out;
+    -moz-transition: all 1.00s ease-out;
+    -ms-transition: all 1.00s ease-out;
+    -o-transition: all 1.00s ease-out;
+    transition: all 1.00s ease-out;
+    -webkit-transform: rotateY(-10deg) rotateZ(300deg) translateZ(-9000px) translateY(0px);
+	position: fixed;
+	left: 100px;
+	top: 100px;
+    width: 250px;
+    height: 400px;
+	z-index: 1;
+    opacity: 0;
+}
+
+#diamonds3
+{
+    -webkit-transition: all 1.00s ease-out;
+    -moz-transition: all 1.00s ease-out;
+    -ms-transition: all 1.00s ease-out;
+    -o-transition: all 1.00s ease-out;
+    transition: all 1.00s ease-out;
+    -webkit-transform: rotateY(-10deg) rotateZ(300deg) translateZ(-9000px) translateY(0px) translateX(0px);
+	position: fixed;
+	left: 100px;
+	top: 100px;
+    width: 250px;
+    height: 400px;
+	z-index: 1;
+    opacity: 0;
+}
+
+#diamonds2
+{
+    -webkit-transition: all 1.00s ease-out;
+    -moz-transition: all 1.00s ease-out;
+    -ms-transition: all 1.00s ease-out;
+    -o-transition: all 1.00s ease-out;
+    transition: all 1.00s ease-out;
+    -webkit-transform: rotateY(0deg) rotateZ(-0deg) translateZ(0px) translateY(-16px);
+	position: fixed;
+	left: 100px;
+	top: 100px;
+    width: 250px;
+    height: 400px;
+	z-index: 1;
+    opacity: 1;
+}
+
+#diamonds4
+{
+    -webkit-transition: all 1.00s ease-out;
+    -moz-transition: all 1.00s ease-out;
+    -ms-transition: all 1.00s ease-out;
+    -o-transition: all 1.00s ease-out;
+    transition: all 1.00s ease-out;
+    -webkit-transform: rotateY(0deg) rotateZ(-0deg) translateZ(0px) translateY(-14px)  translateX(2px);
+	position: fixed;
+	left: 100px;
+	top: 100px;
+    width: 250px;
+    height: 400px;
+	z-index: 1;
+    opacity: 1;
+}
