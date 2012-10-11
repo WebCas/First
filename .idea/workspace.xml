@@ -20,19 +20,19 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="0" selection-start="970" selection-end="970" vertical-scroll-proportion="-5.8846154">
+            <state line="27" column="60" selection-start="1031" selection-end="1031" vertical-scroll-proportion="0.4116223">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="styles.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stylesheets/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="152" column="10" selection-start="2338" selection-end="2338" vertical-scroll-proportion="0.31858408">
+            <state line="152" column="10" selection-start="2338" selection-end="2338" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -51,8 +51,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/stylesheets/styles.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -214,16 +214,16 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/stylesheets/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="0" selection-start="970" selection-end="970" vertical-scroll-proportion="-5.8846154">
+        <state line="152" column="10" selection-start="2338" selection-end="2338" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/styles.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="152" column="10" selection-start="2338" selection-end="2338" vertical-scroll-proportion="0.31858408">
+        <state line="27" column="60" selection-start="1031" selection-end="1031" vertical-scroll-proportion="0.4116223">
           <folding />
         </state>
       </provider>
