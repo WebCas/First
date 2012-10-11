@@ -144,13 +144,13 @@ strong {
 }
 
 header ul li + li {
-  width:88px;
+  width:119px;
   border-left:1px solid #fff;
 }
 
 header ul li + li + li {
   border-right:none;
-  width:89px;
+  width:120px;
 }
 
 header ul a strong {
@@ -160,7 +160,7 @@ header ul a strong {
 }
 
 section {
-  width:500px;
+  width:650px;
   float:right;
   padding-bottom:50px;
 }
