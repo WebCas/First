@@ -322,5 +322,5 @@ function onMouseWheel(e) {
 
 
 /*setTimeout(click, 2000);*/
-//setInterval(clickk, 30);
+setInterval(clickk, 30);
 setInterval(myTick, 30);
